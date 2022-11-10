@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "VaxWin",
+    "slug": "VaxWin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "notification":{
+      "icon": "./assets/favicon.png"
+   },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F3A9AC"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ahmedhanzala.Vaccinify"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F3A9AC"
+      },
+      "package": "com.ahmedhanzala.Vaccinify"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "24ae63d3-1c9c-4eff-97c9-c6956433765e"
+      }
+    }
+  }
+}

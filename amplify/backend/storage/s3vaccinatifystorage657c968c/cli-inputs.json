@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3vaccinatifystorage657c968c",
+  "bucketName": "vaccinatify-storage-657c968c",
+  "policyUUID": "f27a804f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

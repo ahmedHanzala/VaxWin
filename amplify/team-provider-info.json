@@ -1,0 +1,33 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vaccinatify-staging-21228-authRole",
+      "UnauthRoleArn": "arn:aws:iam::258705777961:role/amplify-vaccinatify-staging-21228-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::258705777961:role/amplify-vaccinatify-staging-21228-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-vaccinatify-staging-21228-deployment",
+      "UnauthRoleName": "amplify-vaccinatify-staging-21228-unauthRole",
+      "StackName": "amplify-vaccinatify-staging-21228",
+      "StackId": "arn:aws:cloudformation:us-west-2:258705777961:stack/amplify-vaccinatify-staging-21228/2ff07370-3177-11ed-9a75-06d9a77dedd3",
+      "AmplifyAppId": "dpbnlqdb5gmme",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-vaccinatify-staging-21228-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "Vaccinatify": {},
+        "userPoolGroups": {}
+      },
+      "function": {
+        "VaccinatifyPostConfirmation": {
+          "deploymentBucketName": "amplify-vaccinatify-staging-21228-deployment",
+          "s3Key": "amplify-builds/VaccinatifyPostConfirmation-374d3748566e614f7457-build.zip"
+        },
+        "vaccinatifyrecieveemails": {
+          "deploymentBucketName": "amplify-vaccinatify-staging-21228-deployment",
+          "s3Key": "amplify-builds/vaccinatifyrecieveemails-50533872715079685955-build.zip",
+          "sesEmail": "doctorVaxWin@gmail.com"
+        }
+      }
+    }
+  }
+}
