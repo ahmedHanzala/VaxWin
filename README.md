@@ -17,15 +17,18 @@
     <li><strong>User-friendly Interface</strong>: The application offers an intuitive and user-friendly interface, making it easy for parents to navigate and manage their children's vaccination records.</li>
   </ul>
   <h2>Google Play Store</h2>
-      <pre><code>PLAY STORE LINK: <a href=  "https://play.google.com/store/apps/details?id=com.ahmedhanzala.Vaccinify"> Click here to download VaxWin for android </a> </code></pre>
+![Group 128 (1)](https://github.com/ahmedHanzala/VaxWin/assets/105395393/d01cc0fb-af28-40e5-83f4-0bd0a6492446)
+
+   <pre><code>PLAY STORE LINK: <a href=  "https://play.google.com/store/apps/details?id=com.ahmedhanzala.Vaccinify"> Click here to download VaxWin for android </a> </code></pre>
   <h2>Screenshots</h2>
-   <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/52a4fa1f-6feb-4ac8-b9cb-3c1bfc73c1a5" width="200" height="400" />
-  <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/405b5294-e71a-498a-86fe-f96a42d3bd18" width="200" height="400" />
-   <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/ae912485-91c4-4426-8fc9-dc8f8e39a646" width="200" height="400" />
-    <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/cdd24c3b-9142-44eb-a7ad-cdb392c0a994" width="200" height="400" />
-  <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/2e05ae96-7dbd-47e3-922d-4a674f5d5137" width="200" height="400" />
-  <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/9e3c3c42-15a5-46bf-a5e7-3124471adde6" width="200" height="400" />
+   <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/cd3b017d-3d5a-4b3f-9ff4-02ddee3c4f86" width="200" height="400" />
+  <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/2a9604f0-308e-4f54-8103-d01791db0a52" width="200" height="400" />
+   <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/2dca996f-c9a3-4d8c-a78d-aa8b8597005f" width="200" height="400" />  
+    <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/d01cc0fb-af28-40e5-83f4-0bd0a6492446" width="200" height="400" />
+  <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/b35f651a-fd97-46a3-9071-f2c244116c05" width="200" height="400" />
+  <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/e1266426-6274-4570-8666-95e7e15e9d35" width="200" height="400" />
     <h2>Main Screens</h2>
+
   <ul>
     <li><strong>Onboarding Screen</strong>: The initial screen that introduces the application to users. Users can navigate to the login or sign up screens using the provided arrows and HTML.</li>
     <li><strong>Login Screen</strong>: Allows users to log into their VaxWin accounts.</li>
