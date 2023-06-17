@@ -1,7 +1,0 @@
-[
-  {
-    "Action": ["ses:SendEmail"],
-    "Effect": "Allow",
-    "Resource": ["arn:aws:ses:us-west-2:258705777961:identity/doctorVaxWin@gmail.com"]
-  }
-]
