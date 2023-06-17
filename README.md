@@ -17,8 +17,6 @@
     <li><strong>User-friendly Interface</strong>: The application offers an intuitive and user-friendly interface, making it easy for parents to navigate and manage their children's vaccination records.</li>
   </ul>
   <h2>Google Play Store</h2>
-![Group 128 (1)](https://github.com/ahmedHanzala/VaxWin/assets/105395393/d01cc0fb-af28-40e5-83f4-0bd0a6492446)
-
    <pre><code>PLAY STORE LINK: <a href=  "https://play.google.com/store/apps/details?id=com.ahmedhanzala.Vaccinify"> Click here to download VaxWin for android </a> </code></pre>
   <h2>Screenshots</h2>
    <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/cd3b017d-3d5a-4b3f-9ff4-02ddee3c4f86" width="200" height="400" />
