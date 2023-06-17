@@ -60,12 +60,13 @@
   <p>This will start the React Native development server and provide you with options to run the application on a physical device or an emulator.</p>
 
   <h2>Backend Configuration</h2>
-  <p>VaxWin uses AWS services for the backend. </p>
+  <p>VaxWin uses AWS services for the backend. VaxWin uses the following Services:</p>
   <ol>
-    <li>Create an AWS account if you don't already have one.</li>
-    <li>Set up an S3 bucket to store user data securely.</li>
-    <li>Set up an AWS Lambda function and API Gateway to handle backend APIs for user authentication, vaccine record management, and notifications.</li>
-    <li>Configure the necessary environment variables in the application code, such as the AWS credentials, bucket name, API endpoints, etc.</li>
+    <li>AWS IAM</li>
+    <li>S3 bucket</li>
+    <li>Lambda Functions </li>
+    <li>AWS amplify</li>
+   <li>DynamoDB</li>
   </ol>
 
   <p>For detailed instructions on setting up the backend, refer to the documentation provided in the <code>backend</code> directory of the project.</p>
