@@ -1,9 +1,9 @@
 
 <body>
  <h1 style="display: flex; align-items: center;">
-    <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/09b64343-8fc4-40b4-b9ce-cd1b3d21c0b3" alt="VaxWin Logo" style="width: 70px; height: 70px; margin-right: 05px;">
+    <img src="https://github.com/ahmedHanzala/VaxWin/assets/105395393/921c1faa-53e6-45c0-83ee-317537b64d53" alt="VaxWin Logo" style="width: 70px; height: 70px; margin-right: 05px;">
     VaxWin - Vaccine Tracking Application for Children
-  </h1>
+
 
   <h2>Features</h2>
   <ul>
