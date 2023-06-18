@@ -89,7 +89,7 @@
   <p>Please ensure that your code follows the project's coding standards and includes appropriate tests.</p>
 
   <h2>License</h2>
-  <p>VaxWin is released under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute the application according to the terms specified in the license.</p>
+  <p>VaxWin is released under the <a href="LICENSE">Apache-2.0</a> License. Feel free to use, modify, and distribute the application according to the terms specified in the license.</p>
 
   <h2>Acknowledgements</h2>
   <ul>
