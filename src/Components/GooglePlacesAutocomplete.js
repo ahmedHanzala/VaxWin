@@ -40,7 +40,7 @@ const GooglePlacesInput = ({style,onPress}) => {
             onChangeText: onPress
         }}
           query={{
-            key: "AIzaSyD8gUjOiR4xYDHIdxlyIuHk14-mOmwdMVM",
+            key: "ENTER_YOUR_API_KEY",
             language: "en",
           }}
           style={{
